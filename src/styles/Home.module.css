@@ -1,0 +1,9 @@
+.home {
+  height: 100vh;
+  display: flex;
+}
+
+.title {
+  margin-left: 5rem;
+  color: #fff;
+}
